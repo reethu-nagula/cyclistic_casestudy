@@ -45,6 +45,9 @@ Secondary dataset:
 ZipCode Spreadsheet:
 [Zipcode](https://docs.google.com/spreadsheets/d/1IIbH-GM3tdmM5tl56PHhqI7xxCzqaBCU0ylItxk_sy0/template/preview#gid=806359255)
 
+## Extracting the data
+
+
 First,we navigate to our BigQuery console. 
 Search and preview the public datasets using the search bar in the Explore pane of console.
 These datasets are already available to query, we find the below 3 datasets
@@ -56,6 +59,9 @@ These datasets are already available to query, we find the below 3 datasets
 - noaa_gsod
 
 After that , upload the zip code dataset. 
+
+## Loading and Transforming the Data
+
 
 To load the data into the target table, Run the below code and save the table as CSV file in your drive. 
 
@@ -180,6 +186,8 @@ After obtaining the necessary data resources and getting approval from stakehold
 Here's the mockup I created.
 
 Now we use Tableau Software to connect the target table and visualizations.
+
+
 
 
 
