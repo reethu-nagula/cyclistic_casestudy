@@ -67,7 +67,7 @@ These datasets are already available to query, we find the below 3 datasets
 
 After that , upload the zip code dataset. 
 
-## Loading and Transforming the Data
+## Transforming and Loading the Data
 
 
 To load the data into the target table, Run the below code and save the table as CSV file in your drive. 
@@ -193,6 +193,9 @@ This is the final part of the BI project.
 After obtaining the necessary data resources and getting approval from stakeholders to use them, we create a mockup design first. This way, stakeholders can get an idea of the layout that will be used at the end of the project. This way we can help stakeholders understand how their dashboard is going to look and make changes as per their convience.
 Here's the mockup I created.
 
+![Dashboard Mock](https://github.com/reethu-nagula/cyclistic_casestudy/assets/153361320/30b369ec-eac7-495d-8113-bcf2042cb31a)
+
+
 Now we use Tableau Software to connect the target table and visualizations.
 
 
@@ -231,17 +234,11 @@ We created a map with metrics selection( Temperature, percipitation, Trip minute
 
 ![Summer Trends](https://github.com/reethu-nagula/cyclistic_casestudy/assets/153361320/1b3c3af7-ef4b-445c-a9c0-406dbe53eeac)
 
+
 Refer to the link below to view the dashboard
-[Here](https://public.tableau.com/views/BICaseStudy_17021363744630/Seasonality?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+[Cyclistic Dashboard](https://public.tableau.com/views/BICaseStudy_17021363744630/Seasonality?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-
-
-
-
-
-
-
-
+In conclusion, the Cyclistic bike-share case study demonstrates a systematic approach to business intelligence, encompassing project planning, data preparation, and dashboard design. By leveraging Google BigQuery and Tableau, we created a comprehensive dashboard providing insights into customer behavior, demand patterns, and seasonal trends. The visualization tools offer a user-friendly interface for stakeholders, enabling informed decision-making for Cyclistic's future business plans and growth strategies.
 
 
