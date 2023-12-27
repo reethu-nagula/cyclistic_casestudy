@@ -182,10 +182,46 @@ To have a look a look at the Summer Target Table[click here](https://drive.googl
 
 This is the final part of the BI project. 
 
-After obtaining the necessary data resources and getting approval from stakeholders to use them, we create a mockup design first. This way, stakeholders can get an idea of the layout that will be used at the end of the project. This also minimizes significant changes when we have already created a dashboard with visualization software. 
+After obtaining the necessary data resources and getting approval from stakeholders to use them, we create a mockup design first. This way, stakeholders can get an idea of the layout that will be used at the end of the project. This way we can help stakeholders understand how their dashboard is going to look and make changes as per their convience.
 Here's the mockup I created.
 
 Now we use Tableau Software to connect the target table and visualizations.
+
+
+#### Load the data into Tableau
+
+To load the data into tableau, I have connected the Google Drive to Tableau( As i have stored the data in Google Drive ).
+
+After loading the data, it's good to have a look at your data and try to understand the data before creating visualizations.
+
+#### Create Charts
+
+Now we create charts to include in our dashboards. We create charts in the sheets.
+
+##### Sheet-1,2 : Top Trips:Start,End
+
+As the stakeholders want to identify the customer demand in different stations based on total Trip Time, we create 2 charts i.e., Top Trips:Start Station & Top Trips:End Station
+and create a dashboard named Top Trips by Station by combining these two sheets.
+
+In these 2 Sheets we use the Sum( Trip Minutes ), User Type, Neighbourhood Start, Borough Start, Zip Code Start, Neighbourhood End, Borough End, Zip Code End.
+
+#### Sheet-3,4 : Trip Count
+
+Stakeholders wanted a visualization showing the percent growth in the number of trips year over year. So for that we created a visualization named Trip Count. 
+
+In this we created 2 charts, first one showing the Total Trips by months in an Area Chart. In this chart we used Usertype, Sum( Trip Count ), Month( Start Day ).
+Second One is Trip Count by Start Neighbourhood. This Chart shows information about the Trip Count in each month of 2019,2020 from Start Station. 
+
+Both the charts gives us insights on the number of trips take over year. 
+
+#### Sheet- 5,6 : Seasonality
+
+
+
+
+
+
+
 
 
 
