@@ -52,7 +52,7 @@ Secondary dataset:
 ZipCode Spreadsheet:
 [Zipcode](https://docs.google.com/spreadsheets/d/1IIbH-GM3tdmM5tl56PHhqI7xxCzqaBCU0ylItxk_sy0/template/preview#gid=806359255)
 
-## Extracting the data
+## Extracting the Data
 
 
 First,we navigate to our BigQuery console. 
@@ -239,6 +239,7 @@ Refer to the link below to view the dashboard
 
 [Cyclistic Dashboard](https://public.tableau.com/views/BICaseStudy_17021363744630/Seasonality?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+# Conclusion
+
+
 In conclusion, the Cyclistic bike-share case study demonstrates a systematic approach to business intelligence, encompassing project planning, data preparation, and dashboard design. By leveraging Google BigQuery and Tableau, we created a comprehensive dashboard providing insights into customer behavior, demand patterns, and seasonal trends. The visualization tools offer a user-friendly interface for stakeholders, enabling informed decision-making for Cyclistic's future business plans and growth strategies.
-
-
