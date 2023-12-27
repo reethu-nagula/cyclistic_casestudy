@@ -35,7 +35,7 @@ To have a look at the project requirement documents[click here](https://docs.goo
 ## Strategy Document
 
 At last we will create the strategy document. The Strategy Document is a collaborative place to align with stakeholders about project deliverables. These documents will help establish information about dashboard functionality and associated metrics and charts. Here we will explore what metrics will be required, how metrics are calculated, and any limitations or assumptions that exist about the data. 
-To have a look at the strategy documents[click here]()
+To have a look at the strategy documents[click here](https://docs.google.com/document/d/1EZ77RgB5jKvi5sWy24wnhTQDCzeteeXA/edit?usp=sharing&ouid=101697456061317378080&rtpof=true&sd=true)
 
 # Data Preparation
 
